@@ -1,4 +1,4 @@
-# Program to Convert GrayScale into Binary Image
+# Program to Convert GrayScale Image into Binary Image
 # Pure Black and White Image is Called Binary Image
 
 import cv2
